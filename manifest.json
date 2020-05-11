@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "0.1.2",
-  "name": "CORS Unblock",
+  "version": "1.0.0",
+  "name": "CORS Unblock Access-Control-Allow-Origin",
   "description": "No more CORS error by appending 'Access-Control-Allow-Origin: *' header to local and remote web requests when enabled",
   "permissions": [
     "storage",
@@ -19,7 +19,7 @@
     "64": "data/icons/64.png",
     "128": "data/icons/128.png"
   },
-  "homepage_url": "https://add0n.com/access-control.html",
+  "homepage_url": "https://github.com/arafathusayn/Access-Control-Allow-Origin---Unblock",
   "browser_action":{
     "default_icon": {
       "16": "data/icons/16.png",
